@@ -1,5 +1,7 @@
 # Democratic Party of Oregon Platform (2023)
 
+_Source document_: [Democratic Party of Oregon Platform - Google Docs](https://docs.google.com/document/d/e/2PACX-1vS5aQyZSBkwUScaIPggShjG31G5MeG2BNMQhgpjZRdgMX7oxkf8aLZiq4Oou_mytQ0TdRtemhh3xJhw/pub)
+
 ## Articles
 - [Article 1: Economy & Labor](#article-1-economy--labor)
 - [Article 2: Education](#article-2-education)
