@@ -1,31 +1,10 @@
+# DEMOCRATIC PARTY OF MULTNOMAH COUNTY  
  
-Page | 1 
-  
-DEMOCRATIC PARTY OF MULTNOMAH COUNTY  
- 
-2025 -2026 PLATFORM AND LEGISLATIVE ACTION ITEMS  
+## 2025 -2026 PLATFORM AND LEGISLATIVE ACTION ITEMS  
  
 Presented by the Platform, Resolution, and Legislation Committee  
 Bobbi Yambasu, Chair  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
-
- 
-Page | 2 
   
 Democratic Party of Multnomah County  
 2025 -26 Platform  
@@ -68,10 +47,7 @@ Ruth Jensen, Sally Joughin, Sam Kahl, Tony Fischer
 Convention Chair: Bobbi Yambasu  
  
 County Party Chair: Salome Chimuku  
- 
 
- 
-Page | 3 
  Communications & Promotion Assistance:  Britton Taylor  
  
 Credentialing:  Kathy Paspalis  
@@ -89,43 +65,17 @@ Rob Millis, Peter Mitchel, Au Nguyen, Randie Peterson, D oug Robertson, Faith Ru
 Sanders, Stella Santarelli Vanchina, Ethan Scarl, Marcia Schneider, Ellie Scott, Malcom Scott, 
 Michael Smith, Danelle Stevens, James Rod Such, Mary Thamann, Suzanne Toole, Michelle 
 Waite, Bing Wong, Finda Yambasu, Rober ta ‘Bobbi’ Yambasu  
- 
- 
+
 Respectfully submitted,  
 Bobbi Yambasu  
 Platform, Resolutions and Legislati on Committee Chair  
 Democratic Party of Multnomah County  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
-Page | 4 
-  
- 
- 
- 
+
 Democratic Party of Multnomah County  
 2025 -2026 Platform  
  
-TABLE OF CONTENTS  
+## TABLE OF CONTENTS  
  
 Article I   Tribal Sovereignty  
  Preamble           6 
@@ -161,8 +111,6 @@ Article VII   Environment
  Preamble                    20 
  Planks                     20 
 
- 
-Page | 5 
   Legislative Action Items                21 
  
 Article VIII   Science & Technology  
@@ -179,36 +127,7 @@ Article X   Foreign Policy
  Preamble                  28 
  Planks                   28 
  Legislative Action Items                29  
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
-Page | 6 
  2025 -2026 DEMOCATIC PARTY OF MULTNOMAH COUNTY 
 PLATFORM  
  
@@ -224,9 +143,7 @@ the tide towards a government that pro vides freedom and opportunity for all its
 people.  As inheritors of a racist society, we must work to rectify the injustices that 
 continue to be perpetuated upon the inhabitants of this land. We dedicate our work 
 to honor all those who have lived and labor ed here to make our lives possible.  
- 
- 
- 
+
 ARTICLE I – TRIBAL SOVEREIGNTY  
  
 Preamble  
@@ -247,11 +164,7 @@ the lives of Indigenous people throughout Multnomah County and beyond, this arti
 these areas: child welfare, Chemawa Indi an School, veterans, visitation for people who are 
 incarcerated, cultural items, workers in behavior health and early childhood, healthcare, housing, 
 and salmon.  
- 
- 
 
- 
-Page | 7 
  Plank s 
 1. We affirm the inalienable sovereignty of tribal nations who -- since time immemorial -- have 
 belonged to the lands and waters of what is currently called the US. Wikipedia states, 
@@ -294,8 +207,6 @@ transition to adulthood.
 4. We call for Oregon’s Department of Human Services to facilitate foster -youths’ transition to 
 adulthood by eliminating the 14 -year cap to services to allow foster - and guardianship -youths 
 
- 
-Page | 8 
  access to the Independent Living Program. We also call for an audit of the practice of closing 
 services to youth if workers are unable to reach youth after three attempts.  
 5. We call for an audit of the use of psychiatric medicine for Indigenous youth in residential 
@@ -338,16 +249,8 @@ and obtain other zoning variances.
 15. We call for related government entities to uphold tribal sovereignty and food sovereignty 
 through the removal of the four Snake River dams to restore salmon runs and habitat and to 
 move toward fulfilling treaty obligations.  
- 
 
- 
-Page | 9 
-  
- 
- 
- 
- 
- 
+
 ARTICLE II – EQUITY  
  
 Preamble  
@@ -382,12 +285,7 @@ identify, including gender.
 needed for defense of our nation and not used as preemptive aggression. Military support 
 for other nations should be dependent on their upholding human rights in accord w ith 
 international and U.S. law and should be subject to Congressional approval.  
- 
- 
- 
 
- 
-Page | 10 
  Legislative Action Items  
 1. A Constitutional amendment measure enshrining legal marriage between consenting 
 adults regardless of their gender or sexuality in the Oregon Constitution should be 
@@ -414,10 +312,7 @@ disabilities, and youth in settings such as foster care.
 9. The legislature should thoroughly assess the tax code and ensure that those at the lower 
 end of the economic system pay taxes at a lower rate and those at the higher end of 
 economic system pay a higher rate.  
- 
- 
- 
- 
+
 ARTICLE III - EDUCATION  
  
 Preamble  
@@ -428,12 +323,7 @@ through developing thoughtful individuals who are collaborative problem -solvers
 thinkers when given access to a quality education and the tools to drive our economy forward.  
 We assert that quality public educatio n for all students enriches personal lives, strengthens our 
 economy and is critical to a well -functioning democracy.  
- 
- 
- 
 
- 
-Page | 11 
  Planks  
 1. We believe in education as a public good. Therefore, we support education as the right 
 for every person to have a quality, tuition -free education from preschool through the 
@@ -477,10 +367,7 @@ and trade apprenticeship programs.
  
 9. We oppose unregulated access to student information embedded in digital education 
 products.  
- 
 
- 
-Page | 12 
  10. We support safe schools where students are provided with safe learning environments 
 free from lead paint, lead in water, asbestos, and other threats, such as poor ventilation 
 and air quality.  
@@ -506,8 +393,7 @@ LEP.
 16. We believe US history should be taught recognizing the contributions of all oppressed 
 groups who have been discriminated against in the development of our country, as well 
 as acknowledging the impact racism and oppression have had on our institutions.  
- 
- 
+
 Legislative Action Items  
 1. Fully fund the teaching of civics, critical thinking and media literacy.  These subjects should 
 be priorities in all Oregon Schools.  
@@ -527,8 +413,6 @@ assessments  that keep PK -12 education student -centered.
 5. To reverse the consequences of narrowed curricula which shortchange Oregon’s students, we 
 support adequate funding of a full range of programs and services for PK -12. 
 
- 
-Page | 13 
  6. All Oregon PK -12 education spending should be directed to public schools.  Public funding 
 should not be used for the expansion of private or for -profit schools, vouchers of any type, 
 social impact bonds, experimental Ed Tech programs, virtual schools (outs ide of public 
@@ -571,10 +455,7 @@ Individualized Education Plans (IEPs) so that a school district can receive fund
 11%, ensuring that there are built in safeguards to prevent abuse.  
 15.  We recommend full funding of any mandate issued by the state legislature to the schools and 
 school districts.  
- 
 
- 
-Page | 14 
   
 ARTICLE IV – ANTI -BLACKNESS IN OREGON  
  
@@ -585,9 +466,7 @@ Constitution, legislation and public policy.  If our state truly hopes to heal f
 and Black exclusion, we must confront Oregon’s unique anti -Black history and the legacy of 
 disadvantage that affects Orego n’s Black population today.  The required remedies are 
 multifaceted.  
- 
- 
- 
+
 Planks  
 1.  We support the city of Portland and the state of Oregon increasing the percentage and 
 number of government contracts that go to Black -owned businesses.  
@@ -619,8 +498,6 @@ banks made only four Small Business Administration (SBA) loans to African Americ
 businesses.  Significant correction to the disparity between African American businesses 
 and other businesses must be a priority.  
 
- 
-Page | 15 
  9. African Americans have been disproportionately impacted by inequitable access to health 
 care.  We believe Oregon must enact policies to rectify this disparity.  
 10.  We support the inclusion of accurate Black history in all social studies and history 
@@ -630,8 +507,7 @@ and achievements of Black Americans.
 11.  We support Affirmative Action in the U.S. as one means to remedy the results of prior 
 discrimination and ensure equitable higher education and employment opportunities for 
 African Americans and other disadvantaged groups.  
- 
- 
+
 Legislative Action Items  
 1. We call on local and state government to ensure that a minimum of 6% of government 
 contracts be awarded to small Black -owned businesses.  
@@ -655,18 +531,7 @@ system.
 such as charging resulting in mandatory long sentences or time served before parole can 
 be considered. We call for annual publication of results of that review. We call  for 
 significant criminal justice reform for Oregon’s over -incarcerated Black population.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
- 
-Page | 16 
  ARTICLE V – GOVERNANCE  
  
 Preamble  
@@ -695,8 +560,7 @@ balances among branches locally and federally, and upholding the protections of 
 Rights.  
 8. We believe the Democratic Party should practice policies which promote impartiality and 
 opportunity for the development of new ideas and candidates.  
- 
- 
+
 Legislative Action Items  
 1. We support an Oregon Constitutional Amendment to create a non -partisan commission 
 for redistricting.  
@@ -709,10 +573,7 @@ c. supporting public financing of elections.
 d. making the electoral process more transparent, including full disclosure of 
 contributions with close monitoring of the entire process (Federal, State and 
 Local).  
- 
 
- 
-Page | 17 
  4. We support granting voting rights to US Citizens residing in Washington D.C. and US 
 territories.  
 5. We support government policies and practices that promote voter participation and 
@@ -737,9 +598,7 @@ themselves from cases involving conflicts of interest or the appearance thereof,
 adoption of legal requirements on judges and justices not covered by current law.  
 11. We support laws and policies to allow residents to vote in local elections regardless of 
 citizenship.  
- 
- 
- 
+
 ARTICLE VI – CRIMINAL JUSTICE  
  
 Preamble  
@@ -755,10 +614,7 @@ abuses of power, doesn't me et the needs of individuals returning from incarcera
 adequately fund services that help prevent crime and services that assist people in crisis. We call 
 upon our government at the local, state, and federal levels to examine the system’s f ailings and 
 provide laws and funding to identify and remedy its problems and prevent future inequity.  
- 
 
- 
-Page | 18 
  Planks  
 1. We acknowledge that punishment and incarceration have failed to eliminate violence or to 
 provide community safety or equity.  Our criminal justice system should shift to a 
@@ -802,8 +658,6 @@ possession for personal use should be fully decriminalized.
 11. We support evidenced -based and other measures that can prevent gun violence, including 
 homicides, suicides, and accidental shootings.   
 
- 
-Page | 19 
  12. We oppose both the death penalty and life without parole sentences, for several reasons 
 including wrongful convictions, discriminatory application, and failure to acknowledge the 
 possibility of redemption.  
@@ -848,8 +702,6 @@ education and skill -training system designed by a state board of community memb
 support a statewide ban on the stationing of law enforcement officers in Oregon primary and 
 secondary schools.  
 
- 
-Page | 20 
  10. We oppose charging juvenile defendants as adults.  
 11. We support evidence -based legislation that funds communities heavily impacted by gun 
 violence, focusing on addressing the root causes of behavioral violence, including structural 
@@ -865,10 +717,7 @@ access to more education and training while inside and access to licensure after
 14. We oppose efforts to criminalize homelessness.  
 15. We oppose the privatization of all aspects of the carceral system.  
 16. We call for eliminating charges for telecommunications for incarcerated individuals.  
- 
- 
- 
- 
+
 ARTICLE VII – ENVIRONMENT  
  
 Preamble  
@@ -893,8 +742,6 @@ resources should reflect their societal values.
 2. We believe policies related to the environment and our climate must be framed within our 
 justice and equity goals, including the just transition of displaced workers, low -income 
 
- 
-Page | 21 
  communities and other historically marginalized populations. These policies must address the 
 intentional placement of pollution generating activities near marginalized communities.  
 3. We believe rapidly reducing greenhouse gasses across all sectors and systems (building, 
@@ -930,17 +777,13 @@ plastics, and stringent policies to regulate pollution.
 railways, rivers, and communities should not be threatened by the possibility of explosive 
 derailment of frequent oil trains. We believe our leaders and regulatory bo dies should do 
 more to reduce and withdraw from such oil transport.  
- 
- 
- 
+
 Legislative Action Items  
 1. Rollback all direct and indirect fossil fuel subsidies and ban any net new fossil fuel 
 infrastructure.  
 2. Facilitate residential/multi -family/community/commercial solar generation, micro grids, 
 and personal wind and electric storage with feed -in tariffs comparable to those awarded 
 
- 
-Page | 22 
  large scale energy suppliers. Advocate for direct payment and other market mechanisms for 
 incentives.  
 3. Incorporate an environmental rights amendment into the Oregon Constitution that 
@@ -985,8 +828,6 @@ develop treatments to restore healthy forest soils.
 drinking water protections to develop a new set of rules on the best use of state forest 
 lands.  
 
- 
-Page | 23 
  17.  De-fund the Oregon Forest Resources Institute to prevent state sponsored corporate 
 lobbying.  
 18.  Develop drought plans for drinking -water watersheds and areas with declining 
@@ -1001,9 +842,7 @@ carbon footprint.
 23. We support increased air, water, noise pollution monitoring across the state.  
 24.  We support the requirement of government purchase/procurement of renewable energy 
 sources and infrastructure.  
- 
- 
- 
+
 ARTICLE VIII – SCIENCE & TECHNOLOGY  
  
 Preamble  
@@ -1018,8 +857,7 @@ transportation, space sciences, ocean sciences, and new fields as they emerge, w
 expectation that the fruits of thes e endeavors benefit all humankind equally and equitably. We 
 recognize that our global integration requires attention to the broad societal impacts of these 
 developments.  
- 
- 
+
 Planks  
 1. We believe an open and democratic internet is critical to technological progress. In 
 particular, we support universal access through public broadband and net neutrality; strong 
@@ -1030,8 +868,6 @@ escrow.
 pandemics, aiding recovery, and improving quality of life. Researchers must take care to 
 address racial, gender and cultural bias in research, in order to improve patient outcom es. 
 
- 
-Page | 24 
  3. We believe artificial intelligence research and development must be conducted within 
 strict ethical and moral regulations. We believe developers must respect intellectual 
 property rights; enhance, not replace, the value of human labor; avoid invasions of 
@@ -1076,10 +912,7 @@ an abuse of power. In particular, we believe cybersecurity laws should include t
 standards to safeguard all reproductive healthcare data, including through  end-to-end 
 encryption in transit and at rest.  
 
- 
-Page | 25 
-  
- 
+
 Legislative Action Items  
 1. Pass a federal Right To Repair law that mirrors that of the Oregon law passed in the 2024 
 Short Session (SB 542)  
@@ -1119,11 +952,7 @@ enforcement of consumer protection, tort liability, and anti -trust laws.
 personal information, both in transit and at rest.    
 13.   Enact legislation and policies requiring carbon -free energy for all new data center 
 development.  
- 
- 
 
- 
-Page | 26 
   
 ARTICLE IX – ECONOMY  
  
@@ -1167,8 +996,6 @@ freight and high -speed passenger rail.
 9. To underwrite the productive powers of  workers, we support free and/or affordable, high - 
 quality child -care programs for all children.  
 
- 
-Page | 27 
  10. Because a  decent standard of living for every working person is necessary for 
 maintaining the productive power of the economy,  employers who exploit undocumented 
 workers must face serious penalties.  
@@ -1213,8 +1040,6 @@ increase the supply of housing, including greatly increased affordable housing.
 4. Given our recent experience with the COVID pandemic, we call on the government to 
 ensure that we can protect the public health and prepare for any future pandemic.  
 
- 
-Page | 28 
  5. Given the need for sufficient safe electrical and fuel energy for industrial and residential 
 uses, we seek enabling legislation and funding by Multnomah County and all cities 
 within the county to implement the Critical Energy Security Strategy adopted by t he 
@@ -1224,10 +1049,7 @@ underwriting the pension systems.
 7. We support the establishment of a state bank.  
 8. We support apprenticeship and internship programs; and we support enforcement of 
 prevailing wage requirements for infrastructure projects.  
- 
- 
- 
- 
+
 ARTICLE X – FOREIGN POLICY  
  
 Preamble  
@@ -1241,9 +1063,7 @@ rights worldwide, and the use of diplomacy to encourage other nations to match o
 standards in this regard, in particular the human rights of racial and ethnic minority groups, 
 women, and LGBTQ populati ons.  We share the goal of the Democratic Party of Oregon in this 
 arena:   Our ultimate foreign policy goal is a world free from war and oppression.  
- 
- 
- 
+
 Planks  
 1. We advocate a diplomacy first policy.   Military action should be limited to the least 
 needed for defense of our nation and not used as preemptive aggression. Military support 
@@ -1258,8 +1078,6 @@ another country. Actions "in our national interest" must always be clearly defin
 in national security operations over private military contractors, and require that military 
 contractors be held accountable for misconduct to at least military standar ds and US Law . 
 
- 
-Page | 29 
  5. We support reducing the US military budget to fund only what is actually needed for the 
 defense of our country and redirect funds to support social programs and our economy.  
 6. The US government should support and financially contribute to the United Nations and 
@@ -1300,7 +1118,4 @@ manufactured weapons to intentionally or indiscriminately target civilians in an
 opportunities and public safety.  We support US asylum for people fleeing unsafe 
 conditions and funding for timely consideration of all asylum cases.  We oppose punitive 
 detentio n of asylum seekers and deportations without a due process hearing.  
- 
- 
- 
 
