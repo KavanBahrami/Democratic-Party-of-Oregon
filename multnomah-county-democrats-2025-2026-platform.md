@@ -2,6 +2,8 @@
 
 ## 2025 -2026 PLATFORM AND LEGISLATIVE ACTION ITEMS
 
+_Source document_: [Multnomah County Democrats Platform](https://multdems.org/about-us/our-platform/)
+
 Presented by the Platform, Resolution, and Legislation Committee
 Bobbi Yambasu, Chair
 
