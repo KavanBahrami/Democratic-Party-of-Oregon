@@ -1,15 +1,15 @@
 # Democratic Party of Oregon Platform (2023)
 
 ## Articles
-- Article 1: Economy & Labor
-- Article 2: Education
-- Article 3: Environment
-- Article 4: Foreign Policy and National Security
-- Article 5: Healthcare and Public Health
-- Article 6: Human Rights
-- Article 7: Infrastructure
-- Article 8: Protecting Democracy
-- Article 9: Science and Technology
+- [Article 1: Economy & Labor](#article-1-economy-and-labor)
+- [Article 2: Education](#article-2-education)
+- [Article 3: Environment](#article-3-environment)
+- [Article 4: Foreign Policy and National Security](#article-4-foreign-policy-and-national-security)
+- [Article 5: Healthcare and Public Health](#article-5-healthcare-and-public-health)
+- [Article 6: Human Rights](#article-6-human-rights)
+- [Article 7: Infrastructure](#article-7-infrastructure)
+- [Article 8: Protecting Democracy](#article-8-protecting-democracy)
+- [Article 9: Science and Technology](#article-9-science-and-technology)
 
 ## Preamble
 
@@ -19,7 +19,7 @@ The Democratic Party of Oregon commits itself to the principles and positions co
 We promise to work to uphold the protections granted to us by our state and national constitutions and to act on our responsibilities to ensure that “We the People” govern this nation. We steadfastly oppose any attempt to dilute those rights and liberties in the name of political convenience or security. We affirm that the greatness of our nation is in its diversity and its ability to move forward with full understanding of our historical strengths and weaknesses. We invite all Oregonians, wherever they may be, to join us in affirming our determination to make and keep Oregon a beacon of opportunity, acceptance and freedom.
 
 
-## Article 1: Economy & Labor
+## Article 1: Economy & Labor {#article-1-economy-and-labor}
 Oregon Democrats know that workers form the bedrock of our economy. The labor contributed by workers allows for the entrepreneurial drive of small businesses and the stability offered by larger-scale community investments. As such, our approach to solution-making must be all-encompassing, tackling the historical damages caused by past policies, to enable the full participation of all Oregonians in the economy. This entails crafting meaningful legislation which addresses pressing issues, including but not limited to the rapidly increasing wealth gap, insufficient investment in basic social programs and public infrastructure (especially in communities of color), practices surrounding corporate subsidies, childcare and housing insecurity, food insecurity, and inequitable access to legal aid services. These injustices persist due to intentional neglect, white supremacy, and policies that currently disproportionately favor the wealthy–exacerbating hardships felt by the poorest and most vulnerable members of our state.
 
 
@@ -46,7 +46,7 @@ Oregon Democrats know that workers form the bedrock of our economy. The labor co
 - We believe Democratic political parties, PACs, legislators, and campaigns should meet or exceed the planks of this platform in their employment practices.
 
 
-## Article 2: Education
+## Article 2: Education {#article-2-education}
 Oregon Democrats believe public education is the foundation of democracy and essential to an informed citizenry. We support accessible, high-quality public education from preschool through post-secondary, including college and trade programs. Fully funded public education, in accordance with the Quality Education Model, provides the basis for a well-functioning economy and democracy and must be prioritized. School cultures must highlight dynamic learning environments of engaged learners and teachers, applying critical and creative thinking that connects the classroom, the school, the home, and the community. It is our belief that every student, irrespective of neurodiversity, sexual orientation, gender expression, race, ethnicity, cultural background, or socioeconomic status, deserves a comprehensive education tailored to individual needs. We believe schools must provide a safe environment physically, emotionally, and intellectually, and that all students and staff should feel safe, secure, and supported.
 
 
@@ -73,7 +73,7 @@ Oregon Democrats believe public education is the foundation of democracy and ess
 - We believe that profound, transformative teaching, learning, and research depend on a diverse community with broad backgrounds and perspectives; this demands thoughtful inclusion of diverse populations in admitting and retaining students to institutions of higher learning. Education must support our multicultural democracy.
 
 
-## Article 3: Environment
+## Article 3: Environment {#article-3-environment}
 Oregon Democrats recognize that the current climate emergency requires immediate action to avoid catastrophic warming, crossing tipping points, and triggering irreversible impacts that threaten to make our planet uninhabitable. We support an aggressive and robust timeline for implementing controls on greenhouse gas emissions in all sectors of the economy. We support improving Oregon’s resilience to climate threats, the elimination of “forever chemicals” and plastics, and securing an environment free of nuclear radiation. We encourage legislation that takes a proactive approach to all chemicals and products placed in the consumer sector. We advocate for environmental justice, equity, and inclusion. We call for the centering and protection of historically marginalized populations, particularly Indigenous nations, in discussions and policies that affect the environment, and demand that legislation include Free Prior and Informed Consent of tribal nations. Our efforts to protect the planet and save humanity from climate disasters must be focused and measurable.
 
 
@@ -90,7 +90,7 @@ Oregon Democrats recognize that the current climate emergency requires immediate
 - We oppose massive rail transport of fossil fuels through our state for export from it. We believe our state’s railways, rivers, and communities should not be threatened by the possibility of explosive derailment of frequent oil trains. We believe our leaders and regulatory bodies should do more to reduce and withdraw from such oil transport.
 
 
-## Article 4: Foreign Policy and National Security
+## Article 4: Foreign Policy and National Security {#article-4-foreign-policy-and-national-security}
 Oregon Democrats recognize that our responsibilities extend beyond state and national boundaries and that our security and welfare require global cooperation. We believe that national security also includes conditions within our own country regarding dangers to democracy, domestic terrorism, and denial of rights and opportunities. We believe in strong military and cyber security defenses, while being supportive and observant of the Universal Declaration of Human Rights, the Geneva Conventions, and other legitimate international treaties. We support the primacy of diplomacy and technological and humanitarian assistance to combat global crises, with the use of military power as a last resort. Our military should be strong enough to protect us from foreign state and non-state threats. Our ultimate foreign policy goal is a world free from war and oppression.
 
 
@@ -124,7 +124,7 @@ Oregon Democrats recognize that our responsibilities extend beyond state and nat
 - We believe the Department of Defense should reduce its climate and environmental impacts.
 
 
-## Article 5: Healthcare and Public Health
+## Article 5: Healthcare and Public Health {#article-5-healthcare-and-public-health}
 Oregon Democrats believe that society thrives when everyone has access to a comprehensive universal public health and services infrastructure, including universally accessible medical, dental, hearing, vision and behavioral health. This system must center on patient dignity and respect and should include a strong social safety net that provides the basic necessities of life. The absence of a robust, comprehensive mental and behavioral healthcare system is leading to preventable death and disability among Oregonians—destroying lives, causing trauma, and undermining the health and economy of the State. The absence of equitable, evidence-based measures that counter serious threats to public safety and public health is an avoidable and immoral policy failure.
 
 
@@ -157,7 +157,7 @@ Oregon Democrats believe that society thrives when everyone has access to a comp
 - We believe substance use disorder is a medical condition, not criminal behavior. We support ongoing treatment including harm reduction, withdrawal support, and recovery services across Oregon.
 
 
-## Article 6: Human Rights
+## Article 6: Human Rights {#article-6-human-rights}
 Oregon Democrats champion inviolable Constitutional rights, including the Bill of Rights and the Universal Declaration of Human Rights, while resolutely demanding impartial treatment for all. We believe in a society where everyone’s rights are protected—where we all have the freedom to pursue happiness—and where equity and justice are the rule instead of the exception. Therefore, we are committed to eliminating oppression wherever and whenever it is found.
 
 
@@ -183,7 +183,7 @@ Oregon Democrats champion inviolable Constitutional rights, including the Bill o
 - We believe that the prosecution of hate crimes should always acknowledge hate as an aggravating factor and that justice requires restoration that centers the victim while not causing additional harm. We believe hatred is learned and can be unlearned.
 
 
-## Article 7: Infrastructure
+## Article 7: Infrastructure {#article-7-infrastructure}
 Oregon Democrats support maintaining and updating our nation’s infrastructure including: water, wastewater, transportation, energy, and communication systems; public and educational facilities; housing, food supply, health and social support networks; parks and open spaces, environmental monitoring, and the United States Postal Service. We support new infrastructure projects that prepare for a future that includes the realities of climate change, rapid technological change, and increased worldwide interdependency. We support state, national, and international pollution reduction programs aimed at accelerating the transition to clean-energy infrastructure. We believe in using the best peer-reviewed science and technology to develop and maintain essential infrastructure and to prevent and prepare to combat natural, technological, public health, terrorist, or other infrastructure disruptions. We believe that critical elements of infrastructure, particularly relating to water supply, transportation access, the internet, and hazard response must remain in public ownership.
 
 
@@ -205,7 +205,7 @@ Oregon Democrats support maintaining and updating our nation’s infrastructure 
 - We oppose tolling on Oregon's roads and highways. Tolling is an inequitable solution that places a burden on working people's daily lives instead of restricting the conduct of the multinational corporations responsible for the bulk of carbon pollution.
 
 
-## Article 8: Protecting Democracy
+## Article 8: Protecting Democracy {#article-8-protecting-democracy}
 Oregon Democrats believe that our government derives its authority and power from the people it governs as outlined in the United States Constitution. We hold that all voting-age citizens must have the right and responsibility to vote without encumbrance in local and national elections. We believe that neither socioeconomic status nor demographics should be allowed to limit participation in and influence on the political process. We are committed to open, responsive, transparent and honest government. We believe that corporations are not people and money is not speech; corporations and other non-human legal entities have rights that are defined and must be limited, in law, by the people. We believe the government has a primary responsibility to foster an economy and society that allows all people to thrive. We recognize that sustaining our democracy in the face of foreign and domestic challenges will always require vigilance, common effort, and diligence.
 
 
@@ -223,7 +223,7 @@ Oregon Democrats believe that our government derives its authority and power fro
 - We believe in paying state legislators and statewide office holders a salary sufficient to maintain their ability to continue in government service, without economic stress, in order to reduce conflicts of interest and promote a more economically diverse and democratic government.
 
 
-## Article 9: Science and Technology
+## Article 9: Science and Technology {#article-9-science-and-technology}
 Oregon Democrats believe evidence-based science should form the basis for many of the decisions the government makes, particularly regarding health and the environment. Basic research in science and technology are cornerstones for the future. We welcome innovation in all scientific arenas; however, the scientific community has the responsibility to protect the public from harm caused by incomplete understanding or misapplication of new technologies. We embrace the new frontiers of discovery and development in science, medicine, information, artificial intelligence, robotics, energy, transportation, space sciences, ocean sciences, and new fields as they emerge. We recognize that our global integration requires attention to the broad societal impacts of these developments.
 
 
