@@ -1,10 +1,11 @@
 # Democratic Party of Oregon Platform
 
-This repository hosts Markdown versions of the Democratic Party of Oregon (DPO) Platform. These plain-text documents make it easy to read, copy, and propose edits to the party platform.
+This repository hosts Markdown versions of platforms from the Democratic Party of Oregon (DPO) and related county organizations. These plain-text documents make it easy to read, copy, and propose edits to the party platforms.
 
 ## Contents
 
-- `2023-democratic-party-of-oregon-platform.md` – Platform document adopted in 2023.
+- `democratic-party-of-oregon-2023-platform.md` – Platform document adopted in 2023.
+- `multnomah-county-democrats-2025-2026-platform.md` – Platform and legislative action items adopted for 2025-2026.
 
 ## Viewing the Platform
 

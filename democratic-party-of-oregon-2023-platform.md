@@ -1,4 +1,4 @@
-# 2023 Democratic Party of Oregon Platform
+# Democratic Party of Oregon Platform (2023)
 
 ## Articles
 - Article 1: Economy & Labor
