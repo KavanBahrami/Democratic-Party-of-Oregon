@@ -1,15 +1,15 @@
 # Democratic Party of Oregon Platform (2023)
 
 ## Articles
-- Article 1: Economy & Labor
-- Article 2: Education
-- Article 3: Environment
-- Article 4: Foreign Policy and National Security
-- Article 5: Healthcare and Public Health
-- Article 6: Human Rights
-- Article 7: Infrastructure
-- Article 8: Protecting Democracy
-- Article 9: Science and Technology
+- [Article 1: Economy & Labor](#article-1-economy--labor)
+- [Article 2: Education](#article-2-education)
+- [Article 3: Environment](#article-3-environment)
+- [Article 4: Foreign Policy and National Security](#article-4-foreign-policy-and-national-security)
+- [Article 5: Healthcare and Public Health](#article-5-healthcare-and-public-health)
+- [Article 6: Human Rights](#article-6-human-rights)
+- [Article 7: Infrastructure](#article-7-infrastructure)
+- [Article 8: Protecting Democracy](#article-8-protecting-democracy)
+- [Article 9: Science and Technology](#article-9-science-and-technology)
 
 ## Preamble
 
