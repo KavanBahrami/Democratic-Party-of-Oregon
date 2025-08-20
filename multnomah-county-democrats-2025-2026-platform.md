@@ -134,9 +134,9 @@ people.  As inheritors of a racist society, we must work to rectify the injustic
 continue to be perpetuated upon the inhabitants of this land. We dedicate our work
 to honor all those who have lived and labor ed here to make our lives possible.
 
-### ARTICLE I – TRIBAL SOVEREIGNTY {#article-i-tribal-sovereignty}
+### ARTICLE I – TRIBAL SOVEREIGNTY <a id="article-i-tribal-sovereignty"></a>
 
-#### Preamble {#article-i-preamble}
+#### Preamble <a id="article-i-preamble"></a>
 This article upholds tribal sovereignty for some sixty thousand Indigenous people in Multnomah
 County, accounting for the estimated growth since 2011. They are Indigenous to what is
 currently known as the United States of America (US) and are known in fede ral legislation as
@@ -155,7 +155,7 @@ these areas: child welfare, Chemawa Indi an School, veterans, visitation for peo
 incarcerated, cultural items, workers in behavior health and early childhood, healthcare, housing,
 and salmon.
 
-#### Planks {#article-i-planks}
+#### Planks <a id="article-i-planks"></a>
 1. We affirm the inalienable sovereignty of tribal nations who -- since time immemorial -- have
 belonged to the lands and waters of what is currently called the US. Wikipedia states,
 “‘[T]ime immemorial’ appears as a legal term of art in judicial discussion o f common law
@@ -181,7 +181,7 @@ Nations Human Rights.
 affirmed in treaties, agreements and other constructive arrangements with [the United]
 States,” as stated in the United Nations Declaration on the Rights of Indigenous Peoples.
 
-#### Legislative Action Items {#article-i-legislative-action-items}
+#### Legislative Action Items <a id="article-i-legislative-action-items"></a>
 1. We call for removing barriers for tribal nations and other entities serving Indigenous people
 to gain access to prevention resources through the Title IV -E Prevention Services
 Clearinghouse responding to the 2018 Family First Prevention Services Act. We also call for
@@ -241,9 +241,9 @@ through the removal of the four Snake River dams to restore salmon runs and habi
 move toward fulfilling treaty obligations.
 
 
-### ARTICLE II – EQUITY {#article-ii-equity}
+### ARTICLE II – EQUITY <a id="article-ii-equity"></a>
 
-#### Preamble {#article-ii-preamble}
+#### Preamble <a id="article-ii-preamble"></a>
 The right to equitable outcomes is an important precept upon which a free society thrives.
 Equality, in terms of social issues, has come to mean equal treatment for all.  Equity,
 alternatively, recognizes the goal of having equal outcomes for all and, thus, the need for
@@ -253,7 +253,7 @@ in a society where everyone’s rights are protected and where equity and justic
 are committed to the elimination of all oppre ssion. The United States population is founded on
 immigration; we must uphold that opportunity for current and future generations.
 
-#### Planks {#article-ii-planks}
+#### Planks <a id="article-ii-planks"></a>
 1. We believe in the right of all people to live in dignity, free from abuse, neglect, poverty,
 violence and oppression.
 2. We believe in an Equal Rights Amendment (ERA) supporting equal opportunity, equal
@@ -276,7 +276,7 @@ needed for defense of our nation and not used as preemptive aggression. Military
 for other nations should be dependent on their upholding human rights in accord w ith
 international and U.S. law and should be subject to Congressional approval.
 
-#### Legislative Action Items {#article-ii-legislative-action-items}
+#### Legislative Action Items <a id="article-ii-legislative-action-items"></a>
 1. A Constitutional amendment measure enshrining legal marriage between consenting
 adults regardless of their gender or sexuality in the Oregon Constitution should be
 referred to the people of Oregon.
@@ -303,9 +303,9 @@ disabilities, and youth in settings such as foster care.
 end of the economic system pay taxes at a lower rate and those at the higher end of
 economic system pay a higher rate.
 
-### ARTICLE III - EDUCATION {#article-iii-education}
+### ARTICLE III - EDUCATION <a id="article-iii-education"></a>
 
-#### Preamble {#article-iii-preamble}
+#### Preamble <a id="article-iii-preamble"></a>
 We believe all public schools should be supported with equitable, stable and sustainable public
 funding streams that provide all students with a high -quality education with culturally inclusive
 curriculum from pre -kindergarten through high school and caree r training.  It achieves this
@@ -314,7 +314,7 @@ thinkers when given access to a quality education and the tools to drive our eco
 We assert that quality public educatio n for all students enriches personal lives, strengthens our
 economy and is critical to a well -functioning democracy.
 
-#### Planks {#article-iii-planks}
+#### Planks <a id="article-iii-planks"></a>
 1. We believe in education as a public good. Therefore, we support education as the right
 for every person to have a quality, tuition -free education from preschool through the
 university level.
@@ -384,7 +384,7 @@ LEP.
 groups who have been discriminated against in the development of our country, as well
 as acknowledging the impact racism and oppression have had on our institutions.
 
-#### Legislative Action Items {#article-iii-legislative-action-items}
+#### Legislative Action Items <a id="article-iii-legislative-action-items"></a>
 1. Fully fund the teaching of civics, critical thinking and media literacy.  These subjects should
 be priorities in all Oregon Schools.
 2. Oregon's Quality Education Model (QEM) is a comprehensive framework designed to ensure
@@ -447,9 +447,9 @@ Individualized Education Plans (IEPs) so that a school district can receive fund
 school districts.
 
 
-### ARTICLE IV – ANTI -BLACKNESS IN OREGON {#article-iv-anti-blackness-in-oregon}
+### ARTICLE IV – ANTI -BLACKNESS IN OREGON <a id="article-iv-anti-blackness-in-oregon"></a>
 
-#### Preamble {#article-iv-preamble}
+#### Preamble <a id="article-iv-preamble"></a>
 From its inception in the 19th century, first as a U.S. territory and then a state, Oregon was
 designed to be a “White -only” state with expressed exclusion of Black people via its
 Constitution, legislation and public policy.  If our state truly hopes to heal from systemic racism
@@ -457,7 +457,7 @@ and Black exclusion, we must confront Oregon’s unique anti -Black history and 
 disadvantage that affects Orego n’s Black population today.  The required remedies are
 multifaceted.
 
-#### Planks {#article-iv-planks}
+#### Planks <a id="article-iv-planks"></a>
 1.  We support the city of Portland and the state of Oregon increasing the percentage and
 number of government contracts that go to Black -owned businesses.
 2. We believe that Black families who resided in previously redlined neighborhoods must be
@@ -498,7 +498,7 @@ and achievements of Black Americans.
 discrimination and ensure equitable higher education and employment opportunities for
 African Americans and other disadvantaged groups.
 
-#### Legislative Action Items {#article-iv-legislative-action-items}
+#### Legislative Action Items <a id="article-iv-legislative-action-items"></a>
 1. We call on local and state government to ensure that a minimum of 6% of government
 contracts be awarded to small Black -owned businesses.
 2. We call for local and state government to work in tandem with federal government to
@@ -522,16 +522,16 @@ such as charging resulting in mandatory long sentences or time served before par
 be considered. We call for annual publication of results of that review. We call  for
 significant criminal justice reform for Oregon’s over -incarcerated Black population.
 
-### ARTICLE V – GOVERNANCE {#article-v-governance}
+### ARTICLE V – GOVERNANCE <a id="article-v-governance"></a>
 
-#### Preamble {#article-v-preamble}
+#### Preamble <a id="article-v-preamble"></a>
 A Representative Democracy is meant to be the result of the fair contention between ideas and
 not money or power.  We are dedicated to election integrity, ensuring all eligible voters can vote
 without hardship and that all votes are counted.  We address go vernance and election issues,
 promoting public understanding, equality and equity.  We believe integrity requires both strong
 advocacy for ideas and the energy for their implementation.
 
-#### Planks {#article-v-planks}
+#### Planks <a id="article-v-planks"></a>
 1. We support full transparency of all actions, officials, campaigns and candidates in state, local
 government and the Democratic Party
 2. We believe in holding our elected officials to a higher standard of public scrutiny, rebuking
@@ -551,7 +551,7 @@ Rights.
 8. We believe the Democratic Party should practice policies which promote impartiality and
 opportunity for the development of new ideas and candidates.
 
-#### Legislative Action Items {#article-v-legislative-action-items}
+#### Legislative Action Items <a id="article-v-legislative-action-items"></a>
 1. We support an Oregon Constitutional Amendment to create a non -partisan commission
 for redistricting.
 2. We support legislation providing voting rights for all incarcerated citizens.
@@ -589,9 +589,9 @@ adoption of legal requirements on judges and justices not covered by current law
 11. We support laws and policies to allow residents to vote in local elections regardless of
 citizenship.
 
-### ARTICLE VI – CRIMINAL JUSTICE {#article-vi-criminal-justice}
+### ARTICLE VI – CRIMINAL JUSTICE <a id="article-vi-criminal-justice"></a>
 
-#### Preamble {#article-vi-preamble}
+#### Preamble <a id="article-vi-preamble"></a>
 The criminal justice systems within the United States of America, at the federal, state, and local
 levels, demonstrably fall well short of the minimum standards of fairness and equity, making
 these so -called justice systems patently unjust. The criminal justice system should be reform ed
@@ -605,7 +605,7 @@ adequately fund services that help prevent crime and services that assist people
 upon our government at the local, state, and federal levels to examine the system’s f ailings and
 provide laws and funding to identify and remedy its problems and prevent future inequity.
 
-#### Planks {#article-vi-planks}
+#### Planks <a id="article-vi-planks"></a>
 1. We acknowledge that punishment and incarceration have failed to eliminate violence or to
 provide community safety or equity.  Our criminal justice system should shift to a
 rehabilitative system, including more access to education and other programs. We sup port
@@ -664,7 +664,7 @@ treatment and living conditions for all people detained for possible deportation
 abhorrent practice of separation of family members. We oppose criminalizatio n of efforts to
 help immigrants and undocumented residents.
 
-#### Legislative Action Items {#article-vi-legislative-action-items}
+#### Legislative Action Items <a id="article-vi-legislative-action-items"></a>
 1. We support legislation, policies, and funding to provide alternatives to incarceration where
 appropriate. With the goal of repealing mandatory minimum sentencing, we support all
 legislation that offers alternatives and exceptions, allows for earned time of f sentences, or
@@ -708,9 +708,9 @@ access to more education and training while inside and access to licensure after
 15. We oppose the privatization of all aspects of the carceral system.
 16. We call for eliminating charges for telecommunications for incarcerated individuals.
 
-### ARTICLE VII – ENVIRONMENT {#article-vii-environment}
+### ARTICLE VII – ENVIRONMENT <a id="article-vii-environment"></a>
 
-#### Preamble {#article-vii-preamble}
+#### Preamble <a id="article-vii-preamble"></a>
 We recognize the current climate emergency requires immediate action to avoid catastrophic
 warming, and triggering irreversible impacts that threaten to make our planet uninhabitable. We
 support an aggressive and robust timeline for implementing controls o n greenhouse gas
@@ -723,7 +723,7 @@ nations, in discussion s and policies that affect the environment, and demand th
 include Free Prior and Informed Consent of tribal nations. Efforts to protect the planet and save
 humanity from climate disasters must be focused and measurable.
 
-#### Planks {#article-vii-planks}
+#### Planks <a id="article-vii-planks"></a>
 1. We believe that all people and lifeforms have the inalienable right to a habitable planet,
 healthy local environments and accessible natural spaces. We recognize the necessity of
 adequate clean air, water, and healthy soils. We consider thriving oceans, es tuaries,
@@ -768,7 +768,7 @@ railways, rivers, and communities should not be threatened by the possibility of
 derailment of frequent oil trains. We believe our leaders and regulatory bo dies should do
 more to reduce and withdraw from such oil transport.
 
-#### Legislative Action Items {#article-vii-legislative-action-items}
+#### Legislative Action Items <a id="article-vii-legislative-action-items"></a>
 1. Rollback all direct and indirect fossil fuel subsidies and ban any net new fossil fuel
 infrastructure.
 2. Facilitate residential/multi -family/community/commercial solar generation, micro grids,
@@ -833,9 +833,9 @@ carbon footprint.
 24.  We support the requirement of government purchase/procurement of renewable energy
 sources and infrastructure.
 
-### ARTICLE VIII – SCIENCE & TECHNOLOGY {#article-viii-science-and-technology}
+### ARTICLE VIII – SCIENCE & TECHNOLOGY <a id="article-viii-science-and-technology"></a>
 
-#### Preamble {#article-viii-preamble}
+#### Preamble <a id="article-viii-preamble"></a>
 Multnomah Democrats believe evidence -based science should form the basis for many of the
 decisions the government makes, particularly regarding health and the environment. Basic
 research in science and technology are cornerstones for the future. We welcome  innovation in all
@@ -848,7 +848,7 @@ expectation that the fruits of thes e endeavors benefit all humankind equally an
 recognize that our global integration requires attention to the broad societal impacts of these
 developments.
 
-#### Planks {#article-viii-planks}
+#### Planks <a id="article-viii-planks"></a>
 1. We believe an open and democratic internet is critical to technological progress. In
 particular, we support universal access through public broadband and net neutrality; strong
 privacy protections, particularly for medical and financial information, for all data sharing
@@ -903,7 +903,7 @@ standards to safeguard all reproductive healthcare data, including through  end-
 encryption in transit and at rest.
 
 
-#### Legislative Action Items {#article-viii-legislative-action-items}
+#### Legislative Action Items <a id="article-viii-legislative-action-items"></a>
 1. Pass a federal Right To Repair law that mirrors that of the Oregon law passed in the 2024
 Short Session (SB 542)
 2. Enact legislation and policies requiring companies to disclose, in plain language and to
@@ -944,9 +944,9 @@ personal information, both in transit and at rest.
 development.
 
 
-### ARTICLE IX – ECONOMY {#article-ix-economy}
+### ARTICLE IX – ECONOMY <a id="article-ix-economy"></a>
 
-#### Preamble {#article-ix-preamble}
+#### Preamble <a id="article-ix-preamble"></a>
 The job of our government in managing our economy is to promote the wellbeing of all, prevent
 suffering, protect basic rights, and prioritize our common welfare and shared benefits over the
 private privilege and status of favored individuals. The economy's function is to create and
@@ -959,7 +959,7 @@ challenges and discover new possibilities. To accomplish this, we must imaginati
 science, multifaceted general education, and investment capital under a s ocially viable
 organization.
 
-#### Planks {#article-ix-planks}
+#### Planks <a id="article-ix-planks"></a>
 1. We support comprehensive capital improvements, including public works, to maintain,
 preserve, upgrade or replace infrastructure as a supply -line of human development.
 2. We affirm that all construction and uses of infrastructure be directed through the
@@ -1019,7 +1019,7 @@ production and supply -line, need to be safeguarded from the forces of a market 
 Welfare Index to subordinate Gross Domestic Product (GDP) as a measure of the well -
 being of the people living under the economy.
 
-#### Legislative Action Items {#article-ix-legislative-action-items}
+#### Legislative Action Items <a id="article-ix-legislative-action-items"></a>
 1. As part of securing sufficient water supply for consumption, irrigation, and waste
 management, we call for the legislature to issue a report on the implementation of
 Oregon’s Integrated Water Resources Strategy and the utilization of the committed funds.
@@ -1040,9 +1040,9 @@ underwriting the pension systems.
 8. We support apprenticeship and internship programs; and we support enforcement of
 prevailing wage requirements for infrastructure projects.
 
-### ARTICLE X – FOREIGN POLICY {#article-x-foreign-policy}
+### ARTICLE X – FOREIGN POLICY <a id="article-x-foreign-policy"></a>
 
-#### Preamble {#article-x-preamble}
+#### Preamble <a id="article-x-preamble"></a>
 The Democratic Party of Multnomah County understands that while we are a county party, and
 as such are primarily focused on local and state level issues, we are also the largest voting bloc of
 Democratic voters in Oregon.   As such, there are issues worldwide that demand our attention and
@@ -1054,7 +1054,7 @@ standards in this regard, in particular the human rights of racial and ethnic mi
 women, and LGBTQ populati ons.  We share the goal of the Democratic Party of Oregon in this
 arena:   Our ultimate foreign policy goal is a world free from war and oppression.
 
-#### Planks {#article-x-planks}
+#### Planks <a id="article-x-planks"></a>
 1. We advocate a diplomacy first policy.   Military action should be limited to the least
 needed for defense of our nation and not used as preemptive aggression. Military support
 for other nations should be dependent on their upholding human rights in accord w ith
@@ -1090,7 +1090,7 @@ oppose its members being deployed abroad or domestically for military purposes.
 politicians by entities acting in the interests of foreign powers; nor should policy be based
 on false information about other countries.
 
-#### Legislative Action Items {#article-x-legislative-action-items}
+#### Legislative Action Items <a id="article-x-legislative-action-items"></a>
 1. The US government should exercise its considerable influence on Israel to bring about a
 negotiation with Palestinians to achieve a just, equitable and permanent peace of benefit to
 all parties.
