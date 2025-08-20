@@ -1,4 +1,4 @@
-# Democratic Party of Oregon Platform
+# Democratic Party of Oregon Platforms
 
 This repository hosts Markdown versions of platforms from the Democratic Party of Oregon (DPO) and related county organizations. These plain-text documents make it easy to read, copy, and propose edits to the party platforms.
 
